@@ -2,7 +2,7 @@
 
 }
 
-         
+   
 // let randNumGen = (min, max) => {
 
 //     let someValue = Math.random() * (max - min) + min;
