@@ -30,3 +30,6 @@ C:\MastersWeb\DragRace\DragRace\DragRace\bin\Microsoft.ApplicationInsights.xml
 C:\MastersWeb\DragRace\DragRace\DragRace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 C:\MastersWeb\DragRace\DragRace\DragRace\obj\Debug\DragRace.dll
 C:\MastersWeb\DragRace\DragRace\DragRace\obj\Debug\DragRace.pdb
+C:\MastersWeb\DragRace\DragRace\DragRace\DragRace\obj\Debug\DragRace.csprojResolveAssemblyReference.cache
+C:\MastersWeb\DragRace\DragRace\DragRace\DragRace\obj\Debug\DragRace.dll
+C:\MastersWeb\DragRace\DragRace\DragRace\DragRace\obj\Debug\DragRace.pdb
