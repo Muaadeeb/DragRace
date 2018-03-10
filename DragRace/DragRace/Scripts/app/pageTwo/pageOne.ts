@@ -8,7 +8,7 @@
 //     let someValue = Math.random() * (max - min) + min;
 //    return Math.round(someValue);
 //}
-   
+ 
 //for (var i = 1; i <= 10; i++) {
 //    document.write(Math.random());
 //    document.write("51\r\n");
