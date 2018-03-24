@@ -1,9 +1,9 @@
-﻿let nameAge = () => {
+﻿//let nameAge = () => {
 
-}
+//}
 
    
-// let randNumGen = (min, max) => {
+/////////// let randNumGen = (min, max) => {
 
 //     let someValue = Math.random() * (max - min) + min;
 //    return Math.round(someValue);
