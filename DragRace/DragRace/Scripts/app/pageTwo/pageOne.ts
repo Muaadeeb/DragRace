@@ -35,7 +35,7 @@ let nameStorage = () => {
 
     let DRCharacter = new drCharacter(firstName, lastName, age);
 
-    sessionStorage.setItem("Name", JSON.stringify(DRCharacter));
+    sessionStorage.setItem("Name", JSON.stringify(DRCharacter)); 
 
-    window.location.href = "pageOne.html";
+    window.location.href = "../pageOne/pageTwo.html";
 }

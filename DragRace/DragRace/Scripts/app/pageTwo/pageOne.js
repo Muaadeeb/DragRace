@@ -26,6 +26,6 @@ var nameStorage = function () {
     var age = parseInt(document.getElementById("age")["value"]);
     var DRCharacter = new drCharacter(firstName, lastName, age);
     sessionStorage.setItem("Name", JSON.stringify(DRCharacter));
-    window.location.href = "pageOne.html";
+    window.location.href = "../pageOne/pageTwo.html";
 };
 //# sourceMappingURL=pageOne.js.map
