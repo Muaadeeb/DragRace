@@ -16,7 +16,7 @@
 //let LOL = (1,100) ;
 //let winChance = () => {
 //    let lostPoint3 = LOL - 3;
-//    let losePoint6 = LOL - 6;
+//    let losePoint6 = LOL - 6;afgsedfhdfh
 //    let winPoint3 = LOL + 3;
 //    let winPoint6 = LOL + 6;
 
