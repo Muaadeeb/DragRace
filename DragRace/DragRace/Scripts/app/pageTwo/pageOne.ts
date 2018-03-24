@@ -1,41 +1,56 @@
-﻿let  DRCharacter= new drCharacter(null, null, null);
+﻿//let nameAge = () => {
 
-function drCharacter(firstName, lastName, age) {
-    this.firstName = firstName;
-    this.lastName = lastName;
-    this.age = age;
-}
+//}
+//SDIAOJGDSGAsfdfsdfsfsfsdf
+   
+/////////// let randNuMGen = (min, max) => {
 
+//     let someValue = Math.random() * (max - min) + min;
+//    return Math.round(someValue);
+//}
+ //More changesdasfkl
+//for (var i = 1; i <= 10; i++) {
+//    document.write(Math.random());
+//    document.write("51\r\n");
+//}
+//let LOL = (1,100) ;
+//let winChance = () => {
+//    let lostPoint3 = LOL - 3;
+//    let losePoint6 = LOL - 6;
+//    let winPoint3 = LOL + 3;
+//    let winPoint6 = LOL + 6;
 
-//let adjustCharacterCreationPoints = () => {
-//    let totalCCP = totalCharacterCreationPointsSpent();
-
-//    document.getElementById(" pointsSpent").innerHTML = totalCCP.toString();
-
-//    if (totalCCP > 100) {
-//        alert("You have over spent.  Please adjust your point spend.");
-//    }
 //}
 
-//let totalCharacterCreationPointsSpent = () => {
-//    let ccp1 = parseInt(document.getElementById("combatOffense")["value"]);
-//    let ccp2 = parseInt(document.getElementById("combatDefense")["value"]);
-//    let ccp3 = parseInt(document.getElementById("luck")["value"]);
-//    let ccp4 = parseInt(document.getElementById("gamble")[" value"]);
-//    let ccp5 = parseInt(document.getElementById("hack")["value"]);
-//    let ccp6 = parseInt(document.getElementById("health")[" value"]);
+   //document.getElementById("pointsSpent").innerHTML = totalCCP.toString();
 
-//    return ccp1 + ccp2 + ccp3 + ccp4 + ccp5 + ccp6;
+//switch (randnumgen) {
+//    case (randnumgen < 25):
+//            lol - 6;
+//            break;
+//    case (randnumgen > 26 && x < 5):
+//        lol - 3;
+//            break;
+//    case (randnumgen > 51 && x < 75):
+//        lol + 3;
+//            break;
+//    case (randnumgen > 76 && x < 100):
+//            lol + 6;
+//           break;
+//}
+//if (lol > 100) {
+//    alert("how did you do this?!")
+//};
+  // if (totalCCP > 100) {
+   //     alert("You have over spent.  Please adjust your point spend.");
+  //}
+
+    
+//for (var i = 1; i >= 0; i++) {
+//    document.write(Math.random());
 //}
 
-let nameStorage = () => {
-    let firstName = document.getElementById("fName")["value"];
-    let lastName = document.getElementById("lName")["value"];
-    let age = parseInt(document.getElementById("age")["value"]);
-
-    let DRCharacter = new drCharacter(firstName, lastName, age);
-
-    sessionStorage.setItem("Name", JSON.stringify(DRCharacter)); 
-
-    window.location.href = "../pageOne/pageTwo.html";
-}
+// <div class="margintop">
+//      <div class = "row">
+//<span class="col-md-3"><strong>First Name</strong></span>
+//    </div>
